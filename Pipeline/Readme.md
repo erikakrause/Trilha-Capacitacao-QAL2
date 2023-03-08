@@ -1,4 +1,4 @@
-# CD/CI Pipeple
+# CI (Continuos Integration)/CD (Continuos Delivery) Pipeple
 
 O principal objetivo de se utilizar a *Pipeline* é automatizar o processo de entrega de software colocando em produção de forma rápida e continua sem perde a qualidade do projeto.
 
